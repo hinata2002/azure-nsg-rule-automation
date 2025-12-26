@@ -2,7 +2,7 @@ from azure.identity import AzureCliCredential
 from azure.mgmt.network import NetworkManagementClient
 
 # Azure setup
-subscription_id = "a8f7b39d-0264-4834-a2e9-20d168b54ffe"  # Replace with your actual subscription ID
+subscription_id = "#"  # Replace with your actual subscription ID
 resource_group = "RG-Network-Security-Demo"
 location = "centralindia"
 
